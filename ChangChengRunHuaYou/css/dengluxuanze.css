@@ -1,0 +1,15 @@
+/*dengluxuanze.css*/
+.contt{ min-height:537px; background:url(../img/loginChoice_con.png) no-repeat top center;}
+.cont{ padding-top:55px;}
+.contH2{ width:778px; height:60px; background:url(../img/logtitleH2.png) no-repeat;}
+.pingtai{ width:778px;}
+.pingtai div{ width:352px;}
+.pingtai div a{ width:350px; height:72px; line-height:72px;}
+.pingtai div a:hover{ text-decoration:none;}
+.pingtai div a.Huitu{ background:url(../img/activityHui.png) no-repeat;}
+.pingtai div a.Lantu{ background:url(../img/activityLanhover.png) no-repeat;}
+.pingtai div a.Lantu:hover{ background:url(../img/activityLan.png) no-repeat;}
+
+.Redtu{ background:url(../img/activityLanred.png) no-repeat;}
+.Redtu:hover{ background:url(../img/activityLanredhover.png) no-repeat;}
+/*dengluxuanze.css end*/

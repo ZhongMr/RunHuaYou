@@ -1,0 +1,22 @@
+/*zhongxin.css*/
+.nav_ul li{ float:left; margin-right:7px;}
+.nav_ul li a{ color:#666;}
+.nav_ul li a:hover{ color:#0066CC;}
+.newsH3{ border-bottom:dashed 1px #949393; color:#005FAF;}
+.newsCon{ padding:0 120px;}
+.newsCon p{ text-align:left; font-size:13px; font-family:"宋体"; line-height:170%; color:#6C6C6C; margin-top:25px; text-indent:2em;}
+.newsCon img{ margin-top:35px; max-width:900px; display:inline-block;}
+.newsCon p a{ color:#6C6C6C;}
+.newsDi span{ font-size:13px; font-family:"宋体"; color:#6C6C6C;}
+.newsDi span a{ color:#6C6C6C;}
+.backToTop{
+    display: none;
+    background: url(../img/result-top-btn.png) no-repeat;
+    width: 70px;
+    height: 65px;
+    position: fixed;
+    right: 50px;
+    bottom: 180px;
+    cursor: pointer;
+}
+/*zhongxin.css end*/

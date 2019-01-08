@@ -1,0 +1,116 @@
+/*ddzx.css*/
+.nav_ul li{ float:left; margin-right:7px;}
+.nav_ul li a{ color:#666;}
+.nav_ul li a:hover{ color:#0066CC;}
+.goods_tistH3 span{ height:34px; line-height:34px; padding:0 25px; background-color:#005BAA;}
+.dahe{
+    border: solid 1px #BBB4B4;
+    padding: 8px 0 20px 8px;
+}
+.cc_formOrder {
+    width: 330px;
+    height: 31px;
+    line-height: 31px;
+    background: url(../img/cc_formOrder.jpg) no-repeat;
+}
+.cc_formOrder .cc_formOrderinp1 {
+    width: 240px;
+    height: 31px;
+    line-height: 31px;
+    font-size: 14px;
+    color: #bfbdb8;
+}
+.cc_formDeal label {
+    font-size: 14px;
+    color: #2a2a21;
+}
+.queInp {
+    width: 155px;
+    height: 25px;
+    line-height: 25px;
+    border: solid 1px #B8B8B8;
+    padding: 0 5px;
+    color: #2a2a21;
+}
+.butccQuery {
+    width: 73px;
+    height: 29px;
+    background: url(../img/butccQuery.jpg) no-repeat;
+}
+.cc_xxclinchUl {
+    height: 32px;
+    line-height: 32px;
+}
+.cc_xxclinchUl li {
+    float: left;
+    background-color: #999;
+    border: solid 1px #ccc;
+}
+.cc_xxclinchUla {
+    width: 300px;
+}
+.cc_xxclinchUlb {
+    width: 155px;
+}
+.cc_xxclinchUlc {
+    width: 170px;
+}
+.cc_xxclinchUld {
+    width: 150px;
+}
+.cc_xxclinchUle {
+    width: 195px;
+}
+.cc_xxclinchUlf {
+    width: 200px;
+}
+.cartTable th, .cartTable td {
+    border: solid 1px #BBB4B4;
+}
+.coreBble_Fitd {
+    background-color: #DEDFDF;
+    height: 35px;
+    line-height: 35px;
+}
+.coreBble_Fitd_A {
+    height: 27px;
+    line-height: 27px;
+    background-color: #005BAC;
+    padding: 0 10px;
+    margin-top: 5px;
+}
+.cc_xxclinchUlas {
+    width: 301px;
+}
+.cc_xxclinchUlbs {
+    width: 156px;
+}
+.cc_xxclinchUlcs {
+    width: 171px;
+}
+.cc_xxclinchUlds {
+    width: 151px;
+}
+.cc_xxclinchUles {
+    width: 196px;
+}
+.cc_xxclinchUlfs {
+    width: 201px;
+}
+.descriPtion_span {
+    width: 160px;
+    max-height: 67px;
+    overflow: hidden;
+    margin-top: 15px;
+}
+.backToTop{
+    display: none;
+    background: url(../img/result-top-btn.png) no-repeat;
+    width: 70px;
+    height: 65px;
+    position: fixed;
+    right: 50px;
+    bottom: 180px;
+    cursor: pointer;
+}
+/*ddzx.css end*/

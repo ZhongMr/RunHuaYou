@@ -1,0 +1,86 @@
+/*dingdanwancheng.css*/ 
+.nav_ul li{ float:left; margin-right:7px;}
+.nav_ul li a{ color:#666;}
+.nav_ul li a:hover{ color:#0066CC;}
+.yiduanhua{
+	line-height: 160%;
+	font-size: 18px;
+	color: #3d1b1b;
+	text-align: center;
+	padding-bottom: 15px;
+	margin-top: 15px;
+}
+.xiaotu{
+	width: 23px;
+    height: 23px;
+    background: url(../img/blBg.png) no-repeat -442px -144px;
+    top: 5px;
+    right: 5px;
+}
+.myh3 span{
+    height: 34px;
+    line-height: 34px;
+    padding: 0 25px;
+    background-color: #005BAA;
+}
+.dakuang{
+	border: solid 1px #BBB4B4;
+    padding: 8px 0 20px 8px;
+}
+.myh4{
+    height: 30px;
+    line-height: 30px;
+    background-color: #DEDFDF;
+    margin-left: -23px;
+    padding-left: 23px;
+}
+.biaoge{
+    border: solid 1px #BBB4B4;
+}
+.th{
+	font-weight: bold;
+    height: 33px;
+    background-color: #999;
+    
+}
+.th,.td{
+	border: solid 1px #BBB4B4;
+}
+.th_a{
+	width: 285px;
+}
+.th_b{
+	width: 350px;
+}
+.th_c{
+	width: 180px;
+}
+.th_d{
+	width: 155px;
+}
+.th_e{
+	width: 195px;
+}
+.ddzf{
+	background-color: #DEDFDF;
+    padding-right: 70px;
+    margin-left: -8px
+}
+.color0066CC {
+    color: #0066CC;
+}
+.jifen{
+	border-bottom: solid 1px #B4B4B4;
+    width: 267px;
+}
+.backToTop{
+    display: none;
+    background: url(../img/result-top-btn.png) no-repeat;
+    width: 70px;
+    height: 65px;
+    position: fixed;
+    right: 50px;
+    bottom: 180px;
+    cursor: pointer;
+}
+/*dingdanwancheng.css end*/

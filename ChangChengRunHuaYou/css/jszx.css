@@ -1,0 +1,171 @@
+.headerTop{ height:36px; line-height:36px; border-bottom:solid 1px #DFDFDF;}
+.headerTop_ul li{ float:left; background:url(../img/headerTop_ulli.png) no-repeat top right; padding:0 15px;}
+.color0066CC{ color:#E10012;}
+.searchDiv{ width:298px;}
+.searchDiv_form{ width:298px; height:32px; background:url(../img/searchDiv_form.png) no-repeat top right;}
+.searchDiv_form_L{ width:202px; height:28px; line-height:28px; margin-top:2px; margin-left:40px;}
+.searchDiv_form_R{ width:55px; height:32px;}
+.searchDiv_ul{ margin-top:7px;}
+.searchDiv_ul li{ float:left; padding-right:14px; color:#666;}
+.searchDiv_ul li a{ color:#666;}
+.searchDiv_ul li a:hover{ color:#0066CC;}
+.headerMenu{ height:40px; line-height:40px; background-color:#060608;}
+.headerMenu_ul{ margin-left:280px;}
+.headerMenu_ul li{ float:left; background:url(../img/redImages/headerMenu_ulli.png) no-repeat top right; padding:0 32px;}
+.headerMenu li a{ float:left; color:#fff;}
+.headerMenu_Fis img{ margin:12px 10px 0 0;}
+/*购物车样式*/
+.ccNavigation_div{ background:url(../img/ccNavigation_div.png) no-repeat left center; padding-left:45px; right:0px; top:2px; height:40px;}
+.ccNavigation_div a{ color:#FCD000;}
+/*商城频道*/
+.pingDao{ width:236px;}
+.frequeLfis{ width:236px; height:40ox;}
+.channelMall{ width:236px; height:457px; background-color:#E70012; top:40px; left:0; z-index:10;}
+.channelMall li{ height:55px; line-height:55px; border-top:solid 1px #EC404C; margin-left:15px; margin-right:5px;}
+.channelMall li img{ float:left; margin:17px 10px 0 22px;}
+.channelMall li.frequeLfis img{ margin-top:10px;}
+.channelMall li a{ float:left; color:#fff; font-family:"微软雅黑";}
+.double{ width:253px; height:53px; line-height:53px; background-color:#D90919; left:-10px; top:330px; z-index:11;}
+/*商城频道 end*/
+
+
+.nav_ul li{ float:left; margin-right:7px;}
+.nav_ul li a{ color:#666;}
+.nav_ul li a:hover{ color:#0066CC;}
+.goods_tistH3 span{ height:34px; line-height:34px; padding:0 25px; background-color:#E10012;}
+.dahe{
+	border: solid 1px #BBB4B4;
+    padding: 8px 0 5px 8px;
+}
+.cartTable {
+    border: solid 1px #BBB4B4;
+}
+.cartTable th {
+    font-weight: bold;
+    height: 33px;
+    background-color: #999;
+}
+.cartTable th.cartTable_AS {
+    width: 352px;
+}
+.cartTable th.cartTable_BS {
+    width: 170px;
+}
+.cartTable th.cartTable_CS {
+    width: 185px;
+}
+.cartTable th.cartTable_DS {
+    width: 180px;
+}
+.cartTable th.cartTable_ES {
+    width: 280px;
+}
+.cartTable th, .cartTable td {
+    border: solid 1px #BBB4B4;
+}
+.descriPtion_span {
+    width: 160px;
+    max-height: 67px;
+    overflow: hidden;
+    margin-top: 15px;
+}
+.jieSuangwera {
+    height: 65px;
+    line-height: 65px;
+}
+.adminiTration {
+    border: #BBB4B4 solid 1px;
+}
+.existingvDz_h5 {
+    height: 38px;
+    line-height: 38px;
+    border-bottom: solid 1px #BBB4B4;
+}
+.merParty_col {
+    background-color: #F2E5D1;
+}
+.merParty {
+    padding-left: 60px;
+    border-bottom: solid 1px #BBB4B4;
+}
+.merPartyB a {
+    float: left;
+    font-size: 12px;
+    cursor: pointer;
+    margin-right: 15px;
+    line-height: 22px;
+}
+.merPartyB a:hover{
+	color: red;
+	text-decoration: none;
+}
+.merPartyB_a {
+    width: 66px;
+    height: 22px;
+    border-radius: 3px;
+    text-align: center;
+    border: solid 1px #AAA3A3;
+    background-color: #F1F1F1;
+}
+.borHecon {
+    border: solid 1px #BBB4B4;
+    padding: 8px 0 5px 8px;
+}
+.deliverTha, .deliverThb, .deliverThc, .deliverThd {
+    background-color: #999;
+}
+.shoppingTable th {
+    border: solid 1px #D5D5D5;
+    height: 31px;
+}
+.deliverTha {
+    width: 280px;
+}
+.deliverThb {
+    width: 700px;
+}
+.deliverThc {
+    width: 192px;
+}
+.shoppingTable td {
+    height: 31px;
+    border: solid 1px #D5D5D5;
+    background-color: #fff;
+    font-size: 18px;
+    color: #4E4C4C;
+}
+.deliverThd {
+    width: 894px;
+}
+.js_Tableth1 {
+    width: 124px;
+}
+.js_Tableth2 {
+    width: 510px;
+}
+.js_Tableth3 {
+    width: 95px;
+}
+.js_Tableth4 {
+    width: 340px;
+}
+.shoppingTable td.fyzj_Tab {
+    width: 1160px;
+    font-size: 17px;
+}
+
+.fyzj_Tabfist input {
+    width: 183px;
+    height: 50px;
+    background: url(../img/fyzj_Tabfist.jpg) no-repeat;
+}
+.backToTop{
+    display: none;
+    background: url(../img/result-top-btn.png) no-repeat;
+    width: 70px;
+    height: 65px;
+    position: fixed;
+    right: 50px;
+    bottom: 180px;
+    cursor: pointer;
+}

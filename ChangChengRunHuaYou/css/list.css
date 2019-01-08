@@ -1,0 +1,100 @@
+/*list.css*/
+.nav_ul li{ float:left; margin-right:7px;}
+.nav_ul li a{ color:#666;}
+.nav_ul li a:hover{ color:#0066CC;}
+.paixu{
+	border: solid 1px #ccc;
+    height: 50px;
+    background-color: #E0DEDA;
+}
+.paixu_ul{
+	margin: 10px 0 0 12px;
+    height: 28px;
+    line-height: 28px;
+    border: solid 1px #999;
+    border-left: 0 none;
+}
+.paixu_ul li{
+	float: left;
+    border-left: solid 1px #999;
+}
+.paixu_ul li a {
+    float: left;
+    color: #666;
+    padding: 0 20px;
+    cursor: pointer;
+    text-decoration: none; 
+}
+.paixu_ul li:hover{
+	background-color: #005BAC;
+    color: #fff;
+}
+.paixu_ul li a.moren{
+	background-color: #005BAC;
+    color: #fff;
+}
+.jiageDiv {
+    border: solid 1px #0066CC;
+    width: 120px;
+    top: 28px;
+    left: -1px;
+}
+.jiageDiv a{
+	width: 80px;
+}
+.jiageDiv a:hover{
+	background-color: #005BAC;
+    color: #fff;
+}
+.listda{
+    margin-right: -15px;
+}
+.pingguo{
+    width: 290px;
+    height: 380px;
+    margin: 15px 13px 0 0;
+    overflow: hidden;
+}
+.pingguo a {
+    display: block;
+    border: solid 1px #A9A9A8;
+    text-align: center;
+}
+.pingguoPa{
+    width: 275px;
+    padding: 0 5px 0 10px;
+    line-height: 22px;
+    margin-top: 5px;
+    height: 46px;
+    overflow: hidden;
+    font-size: 14px;
+    font-family: "宋体";
+}
+.pingguoPb{
+    font-size: 16px;
+    font-family: "宋体";
+    margin-top: 3px;
+    padding-left: 10px;
+}
+.pingguoPb span {
+    color: #0066CC;
+    font-weight: bold;
+}
+.pingguoPc{
+    text-decoration: line-through;
+    font-size: 16px;
+    margin-top: 5px;
+    padding-left: 10px;
+    font-family: "宋体";
+}
+.backToTop{
+    display: none;
+    background: url(../img/result-top-btn.png) no-repeat;
+    width: 70px;
+    height: 65px;
+    position: fixed;
+    right: 50px;
+    bottom: 180px;
+    cursor: pointer;
+}
+/*list.css end*/

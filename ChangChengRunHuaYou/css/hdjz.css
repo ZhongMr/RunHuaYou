@@ -1,0 +1,39 @@
+/*hdjz.css*/
+.nav_ul li{ float:left; margin-right:7px;}
+.nav_ul li a{ color:#666;}
+.nav_ul li a:hover{ color:#0066CC;}
+.kazuo{
+	width: 263px;
+}
+.zuo_ul li{
+	margin-top: 1px;
+    font-size: 20px;
+    font-family: "微软雅黑";
+    width: 263px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background: url(../img/procMecha_lul.jpg) no-repeat;
+    cursor: pointer;
+}
+.zuo_ul .moren{
+	color: white;
+	background: url(../img/procMecha_lulclk.jpg) no-repeat;
+}
+.kayou div{
+	display: none;
+}
+.kayou .xianshi{
+	display: block;
+}
+.backToTop{
+    display: none;
+    background: url(../img/result-top-btn.png) no-repeat;
+    width: 70px;
+    height: 65px;
+    position: fixed;
+    right: 50px;
+    bottom: 180px;
+    cursor: pointer;
+}
+/*hdjz.css end*/

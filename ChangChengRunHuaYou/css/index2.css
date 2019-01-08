@@ -1,0 +1,122 @@
+/*index2.css*/
+#div_lunbo{
+	width: 100%;
+	height: 457px;
+	float: left;position: relative;
+}
+#lunbo{
+	display: block;
+	width: 100%;
+	height: 457px;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	position: relative;
+}
+#lunbo li{
+	width: 100%;
+	height: 100%;
+	list-style:none;
+	padding: 0;
+	margin: 0;
+	position: absolute;
+}
+#lunbo li:first-child{
+	background: url(../img/ZlhdpLi_noe.jpg) center top;
+}
+#lunbo li:last-child{
+	background: url(../img/ZlhdpLi_tow.jpg) center top;
+}
+#lunbo li a{
+	display:block;
+ 	width:100%;
+ 	height:100%;
+  	text-indent:-9999px;
+}
+#pagination{ display:block; list-style:none; position:absolute; left:50%; bottom:15px; z-index:3; margin:0}
+#pagination li{ display:block; list-style:none; float:left; margin-left:10px; border-radius:10px; background:#393E3A;  width:20px; height:20px; line-height:20px; text-align:center; font-size:12px; font-family:"微软雅黑"; font-weight:bold;}
+#pagination li a{ display:block; width:100%; height:100%; padding:0; margin:0; color:#fff;}
+#pagination li a:hover{ text-decoration:none;}
+#pagination li.current{ background:#B51A28}
+.contentda{
+	width: 100%;
+	height: 1725px;
+	zoom: 1;
+	background-color: #F7F7F7;
+}
+.contLeft{
+	width: 937px;
+	float: left;
+}
+.contRight{
+	width: 252px;
+	float: right;
+}
+.xiaobiaoti{
+	height: 35px;
+    line-height: 35px;
+    padding-bottom: 5px;
+    background: url(../img/Fboutique.png) repeat-x bottom;
+}
+.myh2{
+    color: #544D4D;
+    border-bottom: 3px solid #0773D3;
+    height: 37px;
+}
+.myh2 span {
+    width: 28px;
+    height: 25px;
+    background: url(../img/Fbou.png) no-repeat;
+    padding-left: 3px;
+}
+.aaa{
+	margin-top: 3px;
+}
+.aaa:hover {
+    text-decoration: none;
+    color: #0066CC;
+}
+.borEAE6E6{ border:solid 1px #EAE6E6;}
+.productsD{ width:663px; height:280px;}
+.productsD_pm{ width:630px; height:45px; line-height:45px;}
+.productsD_pm a:hover{ text-decoration:none;}
+.productsD_A{ margin-left:125px;}
+.productsD_A img{ width:370px; height:200px;}
+.productsX{ width:250px; height:280px;}
+.productsX_p{ width:220px; height:25px; line-height:25px;}
+.productsTow{ margin-right:-15px;}
+.productsTow div{ width:300px; height:285px; margin-right:15px;}
+.sp195_A img{ width:195px; height:195px;}
+.productsTow_p{ width:275px; height:25px; line-height:25px;}
+.colorE10012 {
+    color: #E10012;
+}
+.bestSellersD{ width:400px; height:510px;}
+.bestSellersD_A img{ width:355px; height:355px;}
+.bestSellersD_p{ width:370px; height:40px;}
+.bestSellersX{ width:535px;}
+.bestSellersX div{ width:255px; height:251px; margin-left:10px;}
+.bestSellersX_p{ width:225px; height:22px; line-height:22px;}
+
+.ranking_h4{ height:36px; line-height:36px; background-color:#0773D3; padding:0 15px;}
+.shangpbUl{ margin-left:12px;}
+.shangpbUl li{ margin-top:18px;}
+.shangpbUl_li_span{ width:16px; height:16px; line-height:16px; background-color:#1558A1;}
+.shangpbUl_li_div{ height:16px; line-height:16px;}
+.titLe_p{ width:126px; height:16px;}
+.newsUl li{ line-height:250%; background:url(../img/ddH.png) no-repeat 0 18px; padding-left:10px;}
+.newsUl li{ background:url(../img/ddL.png) no-repeat 0 18px;}
+.newsUl li a{ display:block;}
+.newsUl li a:hover{ color:#1558A1;}
+.touchUl li{ line-height:220%;}
+.backToTop{
+    display: none;
+    background: url(../img/result-top-btn.png) no-repeat;
+    width: 70px;
+    height: 65px;
+    position: fixed;
+    right: 50px;
+    bottom: 180px;
+    cursor: pointer;
+}
+/*index.css end*/
